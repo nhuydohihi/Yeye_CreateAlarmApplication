@@ -27,6 +27,13 @@ This Expo Go application implements an event alarm scheduler with a professional
   - `DD/MM/YYYY`
 - Uses Expo Notifications for local alarms.
 
+## UI 
+
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/1b8a3a0c-f761-4e82-b172-78100312b033" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/eee7fadc-1481-41f2-b37c-4c917e0c4c81" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/39434f44-bbca-437e-a544-bbaf35a14555" />
+![Uploading image.png…]()
+
 ## Run
 
 ```bash
