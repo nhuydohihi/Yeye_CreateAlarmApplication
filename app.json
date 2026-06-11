@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Bai04 Alarm App",
+    "slug": "bai04-alarm-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["expo-notifications"]
+  }
+}
